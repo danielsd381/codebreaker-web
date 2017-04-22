@@ -1,4 +1,5 @@
-package codebreaker
+package main
+
 var secret = ""
 func setSecret(sec string){
 	secret = sec;
@@ -19,5 +20,3 @@ func validate(value string)string{
 	}
 	return result
 }
-
-

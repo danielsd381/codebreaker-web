@@ -1,4 +1,4 @@
-package codebreaker
+package main
 
 import "testing"
 
